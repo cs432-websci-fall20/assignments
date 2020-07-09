@@ -24,7 +24,7 @@ I also encourage you to post early, read your classmates' entries, and reply to 
 
 Login to our [Piazza group](https://piazza.com/odu/fall2020/cs432532) and set up your account (click the Gear and then Account/Email Settings), including a picture.  This will only be visible to students in our class.
 
-Create a new Note post (*not reply*) in the `personal-intro` folder to provide your introduction.  I've already added my introduction as an example for you. 
+Create a new Note post (*not reply*) in the `personal-intro` folder to provide your introduction.  Put your name as the "Summary" line. I've already added my introduction as an example for you. 
 
 We will be using Markdown a good bit this semester, so I encourage you to format your introduction using this markup style for practice. Click the "Markdown editor" radio button in the Details section of the Piazza Note editor.  
 
