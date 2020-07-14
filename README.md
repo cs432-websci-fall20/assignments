@@ -3,3 +3,5 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 ## Assignments
 
 [Personal Introduction](personal-intro.md) - Personal Intro in Piazza (due Aug 18, Week 1) 
+
+[HW0](HW0.md) - Course Setup (*optional, recommended due Aug 21, Week 1*)
