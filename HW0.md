@@ -6,25 +6,19 @@ This is an *optional, but highly recommended* assignment. It will cover the nece
 
 *For this assignment only -- you may ask others in the class for help with these setup tasks. Please use Piazza and post in the `homework` folder for these questions so that others may benefit from the answers.*
 
-## Class Website
-
-We will be using several websites for class this semester. The main class website (https://www.cs.odu.edu/~mweigle/CS432-F20/) should be your first stop -- it contains links to all of the other sites that are needed.
-
-**Q1.** Explore the [class website](https://www.cs.odu.edu/~mweigle/CS432-F20/). Where can you find lecture videos and assignments?
-
 ## ODU-CS Linux
 
 We will be using the [ODU-CS Linux systems](https://systems.cs.odu.edu/Unix_and_Linux_Services) for part of the course (read the information in the linked webpage). If you do not already have an account, request one at https://accounts.cs.odu.edu/validate/
 
 If you are not familiar with Unix/Linux systems, I strongly encourage you to read the materials from [CS 252 - Unix for Programmers](https://www.cs.odu.edu/~zeil/cs252/latest/Directory/outline/index.html). 
 
-**Q2.** Create a directory for files for this course (name it whatever you wish, but something like `cs432-f20` or `cs532-f20` is probably a good idea). Change the permissions on this directory so that you are the only user who can read, write, or execute (view the contents) the directory.
+**Q1.** Create a directory for files for this course (name it whatever you wish, but something like `cs432-f20` or `cs532-f20` is probably a good idea). Change the permissions on this directory so that you are the only user who can read, write, or execute (view the contents) the directory.
 
 ## Python
 
 You can use Python 3 on the ODU-CS Linux machines *(make sure to use /usr/bin/python3 and **not** /usr/bin/python)* or you can [download it ](https://www.python.org/downloads/) and run on your local machine.  Review some of the [important differences between Python 2.7 and Python 3](https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/).
 
-**Q3.** Practice executing a Python program on the ODU-CS machines. Pick one of the "Python Strings" examples from [Python examples](https://www.w3schools.com/python/python_examples.asp), save it to a file in the directory you created in **Q2**, and execute it using Python 3.
+**Q2.** Practice executing a Python program on the ODU-CS machines. Pick one of the "Python Strings" examples from [Python examples](https://www.w3schools.com/python/python_examples.asp), save it to a file in the directory you created in **Q2**, and execute it using Python 3.
 
 ## Google Colab
 
@@ -32,7 +26,7 @@ You can use Python 3 on the ODU-CS Linux machines *(make sure to use /usr/bin/py
 
 Make sure you're logged into a Google account (either a personal one or your ODU student account) and open [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb). Walk through and execute the examples shown.  Experiment with changing some of the code and re-execute the cells.
 
-**Q4.** Create a new cell in the notebook and copy in and execute the code you used in **Q3**.
+**Q3.** Create a new cell in the notebook and copy in and execute the code you used in **Q3**.
 
 ## Git, GitHub
 
@@ -42,9 +36,9 @@ If you do not have one already, you must create a GitHub account.  I recommend a
 
 Mr. Thomas Kennedy has a nice introduction and walkthrough of Git available.  Read through [his materials](https://git-community.cs.odu.edu/tkennedy/git-workshop/-/wikis/Git-Workshop) and work through all of the exercises in the "Setting Up a Local Git Repository" section to create a repository, make changes, commit them locally, and then create a remote repo at GitHub.
 
-**Q5.** What is your GitHub username?
+**Q4.** What is your GitHub username?
 
-**Q6.** What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?
+**Q5.** What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?
 
 ## Markdown
 
@@ -56,7 +50,7 @@ Here are some helpful links for Markdown (and GitHub-flavored Markdown):
 * [Markdown on GitHub](https://help.github.com/en/categories/writing-on-github) -- it can be slightly different than regular Markdown
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) (GitHub flavor)
 
-**Q7.** Complete the following tasks:
+**Q6.** Complete the following tasks:
 * a) Create an ordered list with at least 3 items
 * b) Write a paragraph that demonstrates the use of *italics*, **bold**, ***bold italics***, and `inline code`.
 * c) Create an example of a fenced code block.
@@ -70,6 +64,6 @@ Sign up for a free [Overleaf](https://overleaf.com) account.
 
 Walk through [part 1](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) and [part 2](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_2)) of this [LaTeX introduction](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)). 
 
-**Q8.** What environment is used for bulleted lists?  What command is used to start a bulleted list?
+**Q7.** What environment is used for bulleted lists?  What command is used to start a bulleted list?
 
-**Q9.** What is the command to include an image in a LaTeX file?
+**Q8.** What is the command to include an image in a LaTeX file?
