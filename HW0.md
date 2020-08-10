@@ -1,6 +1,6 @@
 # Homework 0: Course Setup
 
-**Recommended Due Date:** Friday, August 21, 2020 
+**Recommended Due Date:** Friday, September 4, 2020 
 
 This is an *optional, but highly recommended* assignment. It will cover the necessary steps to get set up for the semester.  There is nothing to submit, but there are review questions listed so that you can assess your own understanding.
 
