@@ -1,6 +1,6 @@
 # Personal Introductions
 
-**Due:** Tuesday, August 18, 2020 by 11:59pm
+**Due:** Tuesday, September 1, 2020 by 11:59pm
 
 ## Assignment
 
