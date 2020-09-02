@@ -9,7 +9,7 @@
 * Any graphs required for your reports must be done in R or using a Python plotting library (see ["The 7 most popular ways to plot data in Python"](https://opensource.com/article/20/4/plot-data-python)) -- Excel graphs are unacceptable!
 * When you include an image in your report, *do not change the [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio_(image)) of the image*. If you have trouble with this, ask for help in our Piazza group.
 
-Reports are not just a list of questions and answers, but should include descriptions, screenshots, copy-paste of code output, references, as necessary.  For each question you address, you must describe how you answered the question.  I've provided a LaTeX template at https://www.overleaf.com/project/5f3d84d024c3ac0001fdaa1a.  You can view the PDF generated there as well, so those who are using Markdown may want to look at it, too.
+Reports are not just a list of questions and answers, but should include descriptions, screenshots, copy-paste of code output, references, as necessary.  For each question you address, you must describe how you answered the question.  I've provided a LaTeX template at https://www.overleaf.com/read/tzvqcjvjtgdx.  You can view the PDF generated there as well, so those who are using Markdown may want to look at it, too.
 
 You may use existing code, but you **must** document and reference where you adapted the code -- give credit where credit is due! *Use without attribution is plagiarism!*
 
