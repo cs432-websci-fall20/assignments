@@ -14,6 +14,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW4](HW4.md) - Exploring Social Networks (due Oct 25, Week 9)
 
+[HW5](HW5.md) - Graph Partitioning (due Nov 8, Week 11)
+
 ## Tutorials / Lab Exercises
 
 *All are Google Colab notebooks*
