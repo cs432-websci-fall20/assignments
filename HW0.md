@@ -18,7 +18,7 @@ If you are not familiar with Unix/Linux systems, I strongly encourage you to rea
 
 You can use Python 3 on the ODU-CS Linux machines *(make sure to use /usr/bin/python3 and **not** /usr/bin/python)* or you can [download it ](https://www.python.org/downloads/) and run on your local machine.  Review some of the [important differences between Python 2.7 and Python 3](https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/).
 
-**Q2.** Practice executing a Python program on the ODU-CS machines. Pick one of the "Python Strings" examples from [Python examples](https://www.w3schools.com/python/python_examples.asp), save it to a file in the directory you created in **Q2**, and execute it using Python 3.
+**Q2.** Practice executing a Python program on the ODU-CS machines. Pick one of the "Python Strings" examples from [Python examples](https://www.w3schools.com/python/python_examples.asp), save it to a file in the directory you created in **Q1**, and execute it using Python 3.
 
 ## Google Colab
 
@@ -26,7 +26,7 @@ You can use Python 3 on the ODU-CS Linux machines *(make sure to use /usr/bin/py
 
 Make sure you're logged into a Google account (either a personal one or your ODU student account) and open [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb). Walk through and execute the examples shown.  Experiment with changing some of the code and re-execute the cells.
 
-**Q3.** Create a new cell in the notebook and copy in and execute the code you used in **Q3**.
+**Q3.** Create a new cell in the notebook and copy in and execute the code you used in **Q2**.
 
 ## Git, GitHub
 
