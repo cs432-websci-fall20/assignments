@@ -18,7 +18,9 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW6](HW6.md) - Analyzing Disinformation Domains (due Nov 15, Week 12)
 
-[HW7](HW7.md) - Recommendation Systems (due Nov 30, Week 13)
+[HW7](HW7.md) - Recommendation Systems (due Mon, Nov 30, Week 13)
+
+[HW8](HW8.md) - Clustering (due Dec 6, Week 14)
 
 ## Tutorials / Lab Exercises
 
@@ -33,4 +35,10 @@ Week 3
 * [InfoVis with Python Tutorial](432_Week_03_InfoVis_Python.ipynb)
 
 Week 9
-* [Graph Vis with NetworkX example](432_NetworkX_example.ipynb)
+* [Graph Vis with NetworkX Example](432_NetworkX_example.ipynb)
+
+Week 11
+* [PCI Ch 2 Code Examples](432_PCI_Ch02.ipynb)
+
+Week 12
+* [PCI Ch 3 Code Examples](432_PCI_Ch03.ipynb)
