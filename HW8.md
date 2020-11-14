@@ -88,7 +88,7 @@ Generate the dendrogram figure from Q3 using [scipy's dendrogram](https://docs.s
 ### Q8. 
 *(Extra credit, 2 points)* 
 
-Generate the MDS figure from Q4 using regular Python graphing libraries or Vega-Lite/D3 (i.e., don't generate a JPG file, but produce a scatterplot). Plot the labels (could be in addition to the points or in place of the points) or allow the user to mouse-over the points and display the labels. The figure won't look exactly like Q5 since the initial placement is random, but it should be similar. 
+Generate the MDS figure from Q5 using regular Python graphing libraries or Vega-Lite/D3 (i.e., don't generate a JPG file, but produce a scatterplot). Plot the labels (could be in addition to the points or in place of the points) or allow the user to mouse-over the points and display the labels. The figure won't look exactly like Q5 since the initial placement is random, but it should be similar. 
 
 ## Submission
 
