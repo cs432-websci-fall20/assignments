@@ -22,6 +22,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW8](HW8.md) - Clustering (due Dec 6, Week 14)
 
+[HW9](HW9.md) - Email Classification (due Dec 13, Week 14)
+
 ## Tutorials / Lab Exercises
 
 *All are Google Colab notebooks*
@@ -42,3 +44,9 @@ Week 11
 
 Week 12
 * [PCI Ch 3 Code Examples](432_PCI_Ch03.ipynb)
+
+Week 13
+* [PCI Ch 6 Code Examples](432_PCI_Ch06.ipynb)
+
+Week 14
+* [PCI Ch 8 Code Examples](432_PCI_Ch08.ipynb)
